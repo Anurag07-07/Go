@@ -28,4 +28,6 @@ func main() {
 	//2d Array in single line
 	twod:=[3][3]int{{1,2,3},{1,2,3},{1,2,3}}
 	fmt.Println(twod)
+
+	
 }

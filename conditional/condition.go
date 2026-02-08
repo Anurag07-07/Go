@@ -11,7 +11,6 @@ func main() {
 	// 	fmt.Println("Adult")
 	// }
 
-
 	temp := 15
 
 	if temp<=15 {
