@@ -92,6 +92,7 @@ func main() {
 
 	// Call the anonymous function with a string argument — will print "Its an String"
 	whoAmI("golang")
+
 }
 
 // ─────────────────────────────────────────────────────────────────────────────

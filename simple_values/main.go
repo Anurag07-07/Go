@@ -25,20 +25,3 @@ func main() {
 	// Prints the result of dividing two floats: 10.5 / 5.5 ≈ 1.909090...
 	fmt.Println(10.5 / 5.5)
 }
-
-// ─────────────────────────────────────────────────────────
-// EXAMPLE: Simple values with variables for clarity
-// ─────────────────────────────────────────────────────────
-// func main() {
-// 	age := 25               // integer value
-// 	name := "Anurag"        // string value
-// 	isStudent := false      // boolean value
-// 	gpa := 8.9              // float value
-//
-// 	fmt.Println(age)        // Output: 25
-// 	fmt.Println(name)       // Output: Anurag
-// 	fmt.Println(isStudent)  // Output: false
-// 	fmt.Println(gpa)        // Output: 8.9
-// 	fmt.Println(age + 5)    // Output: 30  (integer arithmetic)
-// 	fmt.Println(gpa * 2)    // Output: 17.8 (float arithmetic)
-// }
